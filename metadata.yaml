@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26762'
     url: http://www.gutenberg.org/2009/agents/26762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24833#Nova-academia-de-pinturaao-estudo-das-Bellas-Artes
 gutenberg_issued: '2008-03-15'
 gutenberg_type: Text
 identifiers:
